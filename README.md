@@ -23,4 +23,4 @@ Linux:
 
 Windows:  
     
-    ./brainfuck.exe source.bf
+    .\brainfuck.exe .\source.bf
