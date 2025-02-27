@@ -10,6 +10,11 @@
     tar xzf FreeBASIC-1.10.0-linux-x86_64.tar.gz  
     cd FreeBASIC-1.10.0-linux-x86_64.tar.gz  
     sudo ./install.sh -i  
+or with [scoop](scoop.sh)
+
+    scoop install freebasic
+
+
 ### Compile
     git clone https://github.com/woyxiang/BASIC_BF
     cd BASIC_BF
